@@ -1,4 +1,5 @@
-# Custom GPT
+<h1 align="center">Custom GPT</h1>
+
 This project aims to guide developers through the process of creating a custom GPT (Generative Pre-trained Transformer) model using Google AI API. By leveraging the power of Google's AI infrastructure, developers can build and deploy highly performant and scalable custom language models for various applications.
 
 
